@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.pokemon.com%2Fassets%2Fcms2%2Fimg%2Fpokedex%2Ffull%2F025.png&imgrefurl=https%3A%2F%2Fwww.pokemon.com%2Fus%2Fpokedex%2Fpikachu&tbnid=N9a4tP3qnHXv_M&vet=12ahUKEwib5suvm_PvAhUCdysKHQmfBucQMygAegUIARDXAQ..i&docid=eRO5Z6mrpxrPxM&w=475&h=475&q=pikachu&safe=active&ved=2ahUKEwib5suvm_PvAhUCdysKHQmfBucQMygAegUIARDXAQ
